@@ -1,0 +1,16 @@
+.vk-card{
+    border: 0;
+}
+.vk-card-footer{
+    background-color: white;
+    border: 0;
+}
+.categories img{
+  width: 100px;
+  border-radius: 10px;
+}
+.vk-slide .carousel-item{
+    background-color:#fceae8;
+    border-radius: 2em;
+
+}
